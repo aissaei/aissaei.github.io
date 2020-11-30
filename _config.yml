@@ -16,6 +16,7 @@ author: Amir Issaei & Ben Wilson
 navbar-links:
   About Us: "aboutus"
   Mission : "missionstatement"
+  Github Repo: "githubrepository"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
