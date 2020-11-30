@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mission
-subtitle: Why this? And why now?
+title: Github Repo
+subtitle: Links to projects on Github
 ---
 
 This section needs to be filled out!
