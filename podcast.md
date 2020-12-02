@@ -4,7 +4,7 @@ title: Podcast
 subtitle: Where we actually discuss ideas! 
 ---
 
-{% include anchor.html %}
+
 
 
 
