@@ -8,7 +8,7 @@ comments: true
 
 # Too much data, too little insight
 
-Here you go again. Another `ML` blogs. In this post, Ben and I will unfold our philosophy toward the current approaches in Data Science, Machine Learning and in general in Data field. There multiple reasons why we decide to put effort behind this website:
+Here you go again. Another `ML` blogs. In this post, Ben and I will unfold our philosophy towards the current approaches in Data Science, Machine Learning and in general in Data field. There multiple reasons why we decide to put effort behind this website:
 0. There are a lot of misleading/wrong information out there, in particular on the Internet. We are here to point those out and address some of those issues.
 0. We have seen many different people fail in their journey in Data Science. There are handful of reasons why. We are here to deep dive into them.
 0. These fields move fast. Moving fast does not mean better solution. Yet, many confuse these two. We are here to clarify what is available, what works in `real world` and what most likely `fail`.
