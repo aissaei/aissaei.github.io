@@ -6,6 +6,7 @@ subtitle: Where we actually discuss ideas!
 
 # Here is the podcast 
 
-<iframe src="https://anchor.fm/notcoolai/embed" height="102px" width="400px" frameborder="0"></iframe>
+<iframe width="400px" height="102px" src="https://anchor.fm/notcoolai/embed" frameborder="0"></iframe>
+
 
 
